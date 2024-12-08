@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunurudra41" alt="kunurudra41" /></a> </p>
 
-- 🔭 I’m currently working on [E-Library](elib.rf.gd) [CanYou-GuessTheNumber-Game](https://can-you-guessthe-number.netlify.app/)
+- 🔭 I’m currently working on [E-Library](elib.rf.gd) || [CanYou-GuessTheNumber-Game](https://can-you-guessthe-number.netlify.app/)
 
 - 🌱 I’m currently learning **Full stack web development**
 
