@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [E-Library](elib.rf.gd) || [CanYou-GuessTheNumber-Game](https://can-you-guessthe-number.netlify.app/)
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Full stack web development Dsa with c++**
 
-- 💬 Ask me about **Html,css editing**
+- 💬 Ask me about **Full stack (mern),oops **
 
 - 📫 How to reach me **kunurudra41@gmail.com**
 
